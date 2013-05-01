@@ -48,7 +48,7 @@ $active_group = 'local';
 $active_record = TRUE;
 
 $db['local']['hostname'] = 'localhost';
-$db['local']['username'] = 'root';
+$db['local']['username'] = 'aggelos';
 $db['local']['password'] = '211085';
 $db['local']['database'] = 'login';
 $db['local']['dbdriver'] = 'mysql';

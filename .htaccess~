@@ -1,6 +1,6 @@
 <IfModule mod_rewrite.c>
   RewriteEngine On
-  RewriteBase /Mainframe
+  
  
   # Reenable after getting ssl cert
   # RewriteCond %{HTTPS} off
